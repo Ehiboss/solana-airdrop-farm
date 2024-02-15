@@ -1,8 +1,3 @@
-solana-airdrop-farm
-Make transaction activities on Jupiter, Dift, Kamino and Margin protocols on Solana to get airdrop eligibility
-
-solana, solana-airdrop, dift, jupiter, airdrop-script, solana-defi
-
 ### How it works
 
 For each wallet from the list the program performs a number of activities on each protocol of decetralised finance, for example, swap SOL to some other token or provide liquidity in pairs. The work is done with the help of SolanaSDK and Net Framework 4.8. At the moment 5 protocols have been added on the Solana network for token swap.
