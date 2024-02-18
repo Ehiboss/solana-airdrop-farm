@@ -4,19 +4,19 @@ For each wallet from the list the program performs a number of activities on eac
 
 ### Protocols and activities
 
-jupiter:
+[jupiter](https://jup.ag):
  - Swapping SOL to USDC/JUP/BONK randomly and back
 
-drift.tade:
+[drift.tade](https://www.drift.trade):
  - Swapping SOL to USDC/JUP/BONK randomly and back
  - SOL staking and lending
  - Open spot positions on SOL (open and close)
 
-kamino.finance (Kamino Finance)
+[kamino.finance (Kamino Finance)](https://app.kamino.finance)
  - Supply SOL on borrow/lend
  - Buy JUP/JTO/BONK randomly and deposit to LP
 
-mfi.gg (Margin Finance)
+[mfi.gg (Margin Finance)](https://www.mfi.gg)
  - Swapping SOL to USDC/JUP/BONK randomly and back
  - Staking SOL on Eran program
  - Supply SOL to LP
