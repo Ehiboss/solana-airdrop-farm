@@ -21,7 +21,7 @@ For each wallet from the list the program performs a number of activities on eac
  - Staking SOL on Eran program
  - Supply SOL to LP
 
-bebop.xyz:
+[bebop.xyz](https://bebop.xyz):
  - Swapping SOL to USDC and back (active and beta versions)
 
 ### Setup
